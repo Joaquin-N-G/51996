@@ -1,0 +1,5 @@
+funcion departamento(){
+    escribir("ingrese contraseña: ");
+    leer(contra);
+    escribir("contraseña correcta");
+}

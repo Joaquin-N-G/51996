@@ -1,0 +1,3 @@
+int suma(){
+	Return 20+10
+} 

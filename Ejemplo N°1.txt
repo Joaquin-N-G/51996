@@ -1,0 +1,6 @@
+funcion Alumno(){
+        leer(nombre); 
+        leer(legajo);
+        escribir("bienvenido: " + nombre + "legajo" + legajo);
+}
+
